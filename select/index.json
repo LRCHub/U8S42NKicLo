@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Falling for You",
+  "base_artist": "WATWING",
+  "createdAt": "2025-12-25T10:00:42.534937Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Falling For You",
+      "artist": "Logistics",
+      "has_synced": false,
+      "path": "select/01_Falling_For_You_Logistics.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Falling For You",
+      "artist": "Longview",
+      "has_synced": false,
+      "path": "select/02_Falling_For_You_Longview.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Falling for You",
+      "artist": "Jem",
+      "has_synced": true,
+      "path": "select/03_Falling_for_You_Jem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Falling for You",
+      "artist": "Mortal Love",
+      "has_synced": true,
+      "path": "select/04_Falling_for_You_Mortal_Love.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Falling for You",
+      "artist": "Skin",
+      "has_synced": false,
+      "path": "select/05_Falling_for_You_Skin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Falling For You",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/06_Falling_For_You_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Still Falling for You (From \"Bridget Jones's Baby\")",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/07_Still_Falling_for_You_(From__Bridget_Jones's_Baby_)_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Falling For You with Justin Bieber",
+      "artist": "Jaden feat. Justin Bieber",
+      "has_synced": true,
+      "path": "select/08_Falling_For_You_with_Justin_Bieber_Jaden_feat._Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Falling For You",
+      "artist": "Jaden, Justin Bieber",
+      "has_synced": true,
+      "path": "select/09_Falling_For_You_Jaden,_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Still Falling For You",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/10_Still_Falling_For_You_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Falling for You",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/11_Falling_for_You_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Falling for You",
+      "artist": "Smokie",
+      "has_synced": false,
+      "path": "select/12_Falling_for_You_Smokie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Falling For You (1982)",
+      "artist": "Smokie",
+      "has_synced": false,
+      "path": "select/13_Falling_For_You_(1982)_Smokie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Guess I'm Falling for You",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/14_Guess_I'm_Falling_for_You_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Guess I'm Falling For You (Michael Bublè)",
+      "artist": "Michael Bublè & Frank Sinatra",
+      "has_synced": true,
+      "path": "select/15_Guess_I'm_Falling_For_You_(Michael_Bublè)_Michael_Bublè_&_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Still Falling For You",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/16_Still_Falling_For_You_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Falling for You",
+      "artist": "WATWING",
+      "has_synced": false,
+      "path": "select/pl_01_Falling_for_You_WATWING.txt"
+    }
+  ]
+}
